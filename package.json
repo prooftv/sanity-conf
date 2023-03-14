@@ -1,6 +1,6 @@
 {
-  "name": "virtual-event-starter-kit",
-  "description": "Starter kit for your virtual event.",
+  "name": "virtual-event-kit",
+  "description": "Unami Live -virtual events and conferences.",
   "private": true,
   "repository": "vercel/virtual-event-starter-kit",
   "author": "Vercel Inc.",
